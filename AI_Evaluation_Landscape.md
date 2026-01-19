@@ -1,11 +1,13 @@
-# The Complete Landscape of AI Evaluation Approaches for LLMs and GenAI
-## An Evidence-Based Guide for Engineers and Evaluation Strategists
+# An AI Evaluation Landscape for LLMs and GenAI Systems
+## An Evidence-Based Notes for Engineers and Evaluation Strategists
 
 ---
 
 ## Executive Overview
 
-Modern AI systems demand evaluation approaches tailored to their unique challenges: they generate probabilistic outputs without fixed answers, they fail in subtle rather than catastrophic ways, and their failures often emerge only in production. This document provides a comprehensive, evidence-first mapping of evaluation approaches used today, organized by *intent* rather than tools, to help both junior engineers and evaluation strategists navigate the fragmented evaluation landscape.
+Modern AI systems demand evaluation approaches tailored to their unique challenges: they generate probabilistic outputs without fixed answers, they fail in subtle rather than catastrophic ways, and many failures emerge only in production.
+
+This document captures an evidence-first synthesis of AI evaluation approaches used today, organized by evaluation intent rather than tools. Its purpose is to help both junior engineers and evaluation strategists reason about what evaluation methods exist, what questions they answer, and where they are effective or misleading in practice.
 
 ### The Five Core Evaluation Intents
 
@@ -1298,4 +1300,5 @@ The goal is not perfect evaluation—impossible and costly. The goal is *risk-ad
 ---
 
 *This document represents the state of AI evaluation practices as of January 2026. Given rapid evolution, practitioners should supplement this guide with recent blog posts, papers, and community discussion. Contributions and corrections are welcome; this is a living document.*
+
 
