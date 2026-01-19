@@ -9,6 +9,10 @@ Modern AI systems demand evaluation approaches tailored to their unique challeng
 
 This document captures an evidence-first synthesis of AI evaluation approaches used today, organized by evaluation intent rather than tools. Its purpose is to help both junior engineers and evaluation strategists reason about what evaluation methods exist, what questions they answer, and where they are effective or misleading in practice.
 
+### Scope & Status
+
+These are living research notes. The field of AI evaluation evolves rapidly, and this document reflects ongoing synthesis rather than a finalized framework or set of best practices. Gaps, uncertainties, and open questions are called out explicitly where relevant.
+
 ### The Five Core Evaluation Intents
 
 All evaluation approaches ultimately answer one of five questions:
@@ -1300,5 +1304,6 @@ The goal is not perfect evaluation—impossible and costly. The goal is *risk-ad
 ---
 
 *This document represents the state of AI evaluation practices as of January 2026. Given rapid evolution, practitioners should supplement this guide with recent blog posts, papers, and community discussion. Contributions and corrections are welcome; this is a living document.*
+
 
 
